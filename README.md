@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 # 📫 Connect me at:
 Linkedin: [Tejash Maurya](https://www.linkedin.com/in/tejash-maurya-a87a2b212/)<br>
-Email: [email](mauryatejash00@gmail.com)<br>
+Email: [email](mailto:mauryatejash00@gmail.com)<br>
 Twitter: [X](https://twitter.com/tejash_maurya)
 
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Step up Byte by Byte! 
