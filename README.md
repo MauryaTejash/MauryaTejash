@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 # 📫 Connect me at:
 Linkedin: [Tejash Maurya](https://www.linkedin.com/in/tejash-maurya-a87a2b212/)<br>
+Website: [TejashMaurya Website](https://mauryatejash.github.io/My-Portfolio/) <br>
 Email: [email](mailto:mauryatejash00@gmail.com)<br>
 Twitter: [X](https://twitter.com/tejash_maurya)
 
